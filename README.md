@@ -8,6 +8,7 @@ SourceTreeの練習リポジトリです
 | rabeneko | レバー |
 | rabeneko | ハツ |
 | rabeneko | シマチョウ |
+| rabeneko | ミノ |
 
 # ここにみんなの好きな寿司のネタを書いてください
 
