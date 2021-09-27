@@ -13,3 +13,4 @@ SourceTreeの練習リポジトリです
 | 名前 | 部位 |
 | ---- | ---- |
 | rabeneko | はまち |
+| rabeneko | マグロ |
