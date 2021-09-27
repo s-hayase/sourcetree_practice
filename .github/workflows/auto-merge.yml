@@ -1,9 +1,9 @@
-name: Auto approve dependabot
+name: Auto merge
 
 on:
   pull_request:
-    types:
-      - opened
+    branches:
+      - main
   push:
     branches:
       - main
