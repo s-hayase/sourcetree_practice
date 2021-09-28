@@ -17,4 +17,11 @@ jobs:
       - name: merge PR
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh pr list | while read line; do gh pr merge `echo $line|awk '{print $1}'` -m; done
+        run: |
+          readonly ARRAY=("![](https://user-images.githubusercontent.com/693300/135069885-7b20db81-1eb4-4929-b059-870d595672ee.jpg)" "![](https://user-images.githubusercontent.com/693300/135070230-7ccc96a6-1e53-426a-976d-1b2b6106b3c5.jpg)")
+          message=${ARRAY[$(($RANDOM % ${#ARRAY[*]}))]}
+          gh pr list | while read line
+          do
+            gh pr comment `echo $line|awk '{print $1}'` --body $message
+            gh pr merge `echo $line|awk '{print $1}'` -m
+          done
