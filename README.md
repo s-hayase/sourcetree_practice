@@ -26,3 +26,4 @@ SourceTreeの練習リポジトリです
 | rabeneko | マグロ |
 | rabeneko | 甘エビ |
 | satsukizzz | クロダイ |
+| satsukizzz | プリン |
