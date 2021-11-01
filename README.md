@@ -10,6 +10,7 @@ SourceTreeの練習リポジトリです
 | rabeneko | シマチョウ |
 | rabeneko | ミノ |
 | rabeneko | カイノミ |
+| rabeneko | タン|
 
 # ここにみんなの好きな寿司のネタを書いてください
 
