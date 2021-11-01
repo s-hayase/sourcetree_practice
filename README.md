@@ -25,3 +25,4 @@ SourceTreeの練習リポジトリです
 | rabeneko | かっぱ巻き |
 | rabeneko | マグロ |
 | rabeneko | 甘エビ |
+| satsukizzz | プリン |
