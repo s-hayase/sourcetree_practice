@@ -27,3 +27,4 @@ SourceTreeの練習リポジトリです
 | rabeneko | 甘エビ |
 | satsukizzz | クロダイ |
 | satsukizzz | プリン |
+| BlueZhiaar | 北寄貝 |
