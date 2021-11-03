@@ -10,7 +10,11 @@ SourceTreeの練習リポジトリです
 | rabeneko | シマチョウ |
 | rabeneko | ミノ |
 | rabeneko | カイノミ |
+<<<<<<< HEAD
 | hayase | タン|
+=======
+| hayase | タン |
+>>>>>>> upstream/main
 
 # ここにみんなの好きな寿司のネタを書いてください
 
@@ -25,3 +29,5 @@ SourceTreeの練習リポジトリです
 | rabeneko | かっぱ巻き |
 | rabeneko | マグロ |
 | rabeneko | 甘エビ |
+| satsukizzz | クロダイ |
+| satsukizzz | プリン |
