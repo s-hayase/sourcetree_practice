@@ -11,6 +11,7 @@ SourceTreeの練習リポジトリです
 | rabeneko | ミノ |
 | rabeneko | カイノミ |
 | hayase | タン |
+| BlueZhiaar | 砂肝 |
 
 # ここにみんなの好きな寿司のネタを書いてください
 
