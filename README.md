@@ -29,3 +29,4 @@ SourceTreeの練習リポジトリです
 | satsukizzz | クロダイ |
 | satsukizzz | プリン |
 | BlueZhiaar | 北寄貝 |
+| roo | 赤貝 |
