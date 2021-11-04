@@ -32,3 +32,4 @@ SourceTreeの練習リポジトリです
 | BlueZhiaar | 北寄貝 |
 | roo | ほたて |
 | roo | 赤貝 |
+| asazuke | ハンバーグ |
