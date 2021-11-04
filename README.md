@@ -30,3 +30,5 @@ SourceTreeの練習リポジトリです
 | satsukizzz | プリン |
 | BlueZhiaar | 北寄貝 |
 | roo | ほたて |
+| roo | 赤貝 |
+
