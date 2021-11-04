@@ -29,4 +29,6 @@ SourceTreeの練習リポジトリです
 | satsukizzz | クロダイ |
 | satsukizzz | プリン |
 | BlueZhiaar | 北寄貝 |
+| roo | ほたて |
 | roo | 赤貝 |
+
