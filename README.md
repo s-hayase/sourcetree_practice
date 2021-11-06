@@ -15,7 +15,7 @@ SourceTreeの練習リポジトリです
 | roo | イチボ |
 | akane | サーロイン |
 | risarisato | カルビ|
-
+| risarisato | カシラ|
 # ここにみんなの好きな寿司のネタを書いてください
 
 | 名前 | 部位 |
