@@ -13,6 +13,7 @@ SourceTreeの練習リポジトリです
 | hayase | タン |
 | BlueZhiaar | 砂肝 |
 | roo | イチボ |
+| akane | サーロイン |
 
 # ここにみんなの好きな寿司のネタを書いてください
 
