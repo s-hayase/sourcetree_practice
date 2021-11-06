@@ -35,4 +35,5 @@ SourceTreeの練習リポジトリです
 | asazuke | ハンバーグ |
 | risarisato | エビアボカド|
 | risarisato | リバイアサン|
+| akane | サーモン |
 | akane | いなり |
