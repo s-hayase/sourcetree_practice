@@ -34,4 +34,4 @@ SourceTreeの練習リポジトリです
 | roo | 赤貝 |
 | asazuke | ハンバーグ |
 | risarisato | エビアボカド|
-
+| risarisato | リバイアサン|
