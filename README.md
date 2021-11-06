@@ -36,3 +36,4 @@ SourceTreeの練習リポジトリです
 | risarisato | エビアボカド|
 | risarisato | リバイアサン|
 | akane | サーモン |
+| akane | いなり |
