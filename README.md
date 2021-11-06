@@ -33,3 +33,5 @@ SourceTreeの練習リポジトリです
 | roo | ほたて |
 | roo | 赤貝 |
 | asazuke | ハンバーグ |
+| risarisato | エビアボカド|
+
