@@ -13,9 +13,6 @@ SourceTreeの練習リポジトリです
 | hayase | タン |
 | BlueZhiaar | 砂肝 |
 | roo | イチボ |
-| akane | サーロイン |
-| risarisato | カルビ|
-| risarisato | カワ|
 
 # ここにみんなの好きな寿司のネタを書いてください
 
@@ -36,6 +33,7 @@ SourceTreeの練習リポジトリです
 | roo | ほたて |
 | roo | 赤貝 |
 | asazuke | ハンバーグ |
+| asazuke | サンマ |
 | risarisato | エビアボカド|
 | akane | サーモン |
 | akane | いなり |
