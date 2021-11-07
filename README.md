@@ -16,6 +16,8 @@ SourceTreeの練習リポジトリです
 | akane | サーロイン |
 | risarisato | カルビ|
 | risarisato | カkaシsiラra|
+| risarisato | カワ|
+
 # ここにみんなの好きな寿司のネタを書いてください
 
 | 名前 | 部位 |
