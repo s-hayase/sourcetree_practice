@@ -15,7 +15,9 @@ SourceTreeの練習リポジトリです
 | roo | イチボ |
 | akane | サーロイン |
 | risarisato | カルビ|
-| risarisato | カシラ|
+| risarisato | カkaシsiラra|
+| risarisato | カワ|
+
 # ここにみんなの好きな寿司のネタを書いてください
 
 | 名前 | 部位 |
@@ -36,7 +38,7 @@ SourceTreeの練習リポジトリです
 | roo | 赤貝 |
 | asazuke | ハンバーグ |
 | risarisato | エビアボカド|
-| risarisato | いかてん|
+| risarisato | いいかかててんん|
 | akane | サーモン |
 | akane | いなり |
-| risarisato | いくら|
+| risarisato | いいくくらら|
