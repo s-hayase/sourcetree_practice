@@ -14,6 +14,7 @@ SourceTreeの練習リポジトリです
 | BlueZhiaar | 砂肝 |
 | roo | イチボ |
 | akane | サーロイン |
+| risarisato | カワ|
 
 # ここにみんなの好きな寿司のネタを書いてください
 
