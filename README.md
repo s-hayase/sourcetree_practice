@@ -38,3 +38,4 @@ SourceTreeの練習リポジトリです
 | risarisato | リバイアサン|
 | akane | サーモン |
 | akane | いなり |
+| 回転ずし | スシロー |
