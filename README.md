@@ -13,6 +13,7 @@ SourceTreeの練習リポジトリです
 | hayase | タン |
 | BlueZhiaar | 砂肝 |
 | roo | イチボ |
+| td | カルビ |
 
 # ここにみんなの好きな寿司のネタを書いてください
 
@@ -37,3 +38,5 @@ SourceTreeの練習リポジトリです
 | risarisato | エビアボカド|
 | akane | サーモン |
 | akane | いなり |
+| td | はまち |
+| td | いくら |
