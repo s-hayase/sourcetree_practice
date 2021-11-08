@@ -39,11 +39,8 @@ SourceTreeの練習リポジトリです
 | risarisato | エビアボカド|
 | akane | サーモン |
 | akane | いなり |
-<<<<<<< HEAD
-| 回転ずし | スシロー |
-=======
 | td | はまち |
 | td | いくら |
 | td | マグロ |
 | labeneko | サーモン |
->>>>>>> upstream/main
+| 回転ずし | スシロー |
