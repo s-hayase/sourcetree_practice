@@ -42,3 +42,4 @@ SourceTreeの練習リポジトリです
 | td | はまち |
 | td | いくら |
 | td | マグロ |
+| labeneko | サーモン |
