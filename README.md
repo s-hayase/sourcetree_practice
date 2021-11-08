@@ -30,6 +30,7 @@ SourceTreeの練習リポジトリです
 | rabeneko | 甘エビ |
 | satsukizzz | クロダイ |
 | satsukizzz | プリン |
+| nakako | ウニ |
 | BlueZhiaar | 北寄貝 |
 | roo | ほたて |
 | roo | 赤貝 |
