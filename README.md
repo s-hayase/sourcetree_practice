@@ -33,3 +33,7 @@ SourceTreeの練習リポジトリです
 | roo | ほたて |
 | roo | 赤貝 |
 | asazuke | ハンバーグ |
+| asazuke | サンマ |
+| risarisato | エビアボカド|
+| akane | サーモン |
+| akane | いなり |
