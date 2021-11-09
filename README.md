@@ -13,6 +13,7 @@ SourceTreeの練習リポジトリです
 | hayase | タン |
 | BlueZhiaar | 砂肝 |
 | roo | イチボ |
+| td | カルビ |
 
 # ここにみんなの好きな寿司のネタを書いてください
 
@@ -29,6 +30,7 @@ SourceTreeの練習リポジトリです
 | rabeneko | 甘エビ |
 | satsukizzz | クロダイ |
 | satsukizzz | プリン |
+| nakako | ウニ |
 | BlueZhiaar | 北寄貝 |
 | roo | ほたて |
 | roo | 赤貝 |
@@ -37,4 +39,14 @@ SourceTreeの練習リポジトリです
 | risarisato | エビアボカド|
 | akane | サーモン |
 | akane | いなり |
+| td | はまち |
+| td | いくら |
+| td | マグロ |
+| labeneko | サーモン |
+| 回転ずし | スシロー |
+| 回転ずし | くら寿司 |
+| td | いわし |
+| roo | かっぱ巻き |
+| roo | かんぴょう巻き |
+| kukki- | 中トロ |
 | milk | イカ |
