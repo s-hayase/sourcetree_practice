@@ -37,3 +37,4 @@ SourceTreeの練習リポジトリです
 | risarisato | エビアボカド|
 | akane | サーモン |
 | akane | いなり |
+| 兎 | 〆さば |
