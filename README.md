@@ -61,3 +61,4 @@ SourceTree の練習リポジトリです
 | 鮑         | アワビ         |
 | 雲丹         | ウニ         |
 | hattori    | スズキ         |
+| hattori     | 甘エビ         |
