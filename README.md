@@ -62,3 +62,4 @@ SourceTree の練習リポジトリです
 | 雲丹         | ウニ         |
 | hattori    | スズキ         |
 | hattori     | 甘エビ         |
+| Gundam     | カニ         |
