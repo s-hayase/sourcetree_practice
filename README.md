@@ -63,3 +63,4 @@ SourceTree の練習リポジトリです
 | hattori    | スズキ         |
 | hattori     | 甘エビ         |
 | Gundam     | カツオ        |
+| Gundam     | カニ         |
