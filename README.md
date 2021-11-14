@@ -64,3 +64,4 @@ SourceTree の練習リポジトリです
 | hattori     | 甘エビ         |
 | Gundam     | カツオ        |
 | Gundam     | カニ         |
+| nb         | あまえび         |
