@@ -65,3 +65,4 @@ SourceTree の練習リポジトリです
 | Gundam     | カツオ        |
 | Gundam     | カニ         |
 | nb         | 肉寿司         |
+| nb         | あまえび         |
