@@ -39,3 +39,4 @@ SourceTreeの練習リポジトリです
 | risarisato | エビアボカド|
 | akane | サーモン |
 | akane | いなり |
+| kenton116 | たまご |
