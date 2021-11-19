@@ -17,28 +17,28 @@ SourceTree の練習リポジトリです
 | td         | カルビ     |
 
 # ここにみんなの好きな寿司のネタを書いてください
-
-<<<<<<< HEAD
-| 名前 | 部位 |
-| ---- | ---- |
-| rabeneko | はまち |
-| rabeneko | マグロ |
-| rabeneko | カンパチ |
-| rabeneko | エンガワ |
-| rabeneko | サバ |
-| rabeneko | 納豆巻き |
-| rabeneko | かっぱ巻き |
-| rabeneko | マグロ |
-| rabeneko | 甘エビ |
-| satsukizzz | クロダイ |
-| satsukizzz | プリン |
-| BlueZhiaar | 北寄貝 |
-| roo | ほたて |
-| roo | 赤貝 |
-| asazuke | ハンバーグ |
-| risarisato | エビアボカド|
-| akane | サーモン |
-| akane | いなり |
+| 名前       | 部位           |
+| ---------- | -------------- |
+| rabeneko   | はまち         |
+| rabeneko   | マグロ         |
+| rabeneko   | カンパチ       |
+| rabeneko   | エンガワ       |
+| rabeneko   | サバ           |
+| rabeneko   | 納豆巻き       |
+| rabeneko   | かっぱ巻き     |
+| rabeneko   | マグロ         |
+| rabeneko   | 甘エビ         |
+| satsukizzz | クロダイ       |
+| satsukizzz | プリン         |
+| nakako     | ウニ           |
+| BlueZhiaar | 北寄貝         |
+| roo        | ほたて         |
+| roo        | 赤貝           |
+| asazuke    | ハンバーグ     |
+| asazuke    | サンマ         |
+| risarisato | エビアボカド   |
+| akane      | サーモン       |
+| akane      | いなり         |
 | kenton116 | たまご |
 | td         | はまち         |
 | td         | いくら         |
@@ -66,6 +66,10 @@ SourceTree の練習リポジトリです
 | Gundam     | カニ         |
 | nb         | 肉寿司         |
 | nb         | あまえび         |
+>>>>>>> upstream/main
+
+<<<<<<< HEAD
+
 =======
 | 名前       | 部位           |
 | ---------- | -------------- |
